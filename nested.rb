@@ -80,8 +80,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-    programmer_hash[:yukihiro_matsumoto][:known_for] => "COBOL"
-    programmer_hash[:yukihiro_matsumoto][:languages] => ["COBOL", "FORTRANS"]
+    programmer_hash[:yukihiro_matsumoto][:known_for] = "COBOL"
+    programmer_hash[:yukihiro_matsumoto][:languages] = ["COBOL", "FORTRANS"]
     
 end
 
